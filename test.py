@@ -1,6 +1,10 @@
-print('Helow world!')
+# print('Helow world!')
+name = 'Arnab'
+age = 25
+age23 = age
+price = 56.39
 
-print('Please enter')
-print('Please enter sorry')
 
-print('Please enter')
+a = None
+b = False
+print(type(b))
