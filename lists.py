@@ -1,5 +1,6 @@
 #* it is equalivent to the array
 # marks = [94, 96, 99, 100]
+# marks.sort()
 # print(type(marks))
 # print(marks[0])
 #? lists are mutable in python but strings are immutable

@@ -9,4 +9,8 @@ for i in seq:
 """
 #* start , stop , increment
 for i in range(2,6,3):
-    print(i)
+     print(i)
+
+'''
+for i in reversed(range(0,10)):
+    print(i)'''
