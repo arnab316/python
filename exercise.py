@@ -7,6 +7,16 @@
 
 print(factorial_recursive(5))"""
 
-import math
+"""import math
 
-print(math.factorial(4))
+print(math.factorial(4))"""
+
+
+class person:
+    def __init__(self,name):
+        self.name = name
+
+
+
+p1= person('arnab')
+print(p1.name)
